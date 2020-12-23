@@ -182,16 +182,16 @@ a2 {
   text-decoration: none;
   background-color: transparent;
 }
-a:hover {
+a2:hover {
   color: #117964;
   text-decoration: underline;
 }
 
-a:not([href]) {
+a2:not([href]) {
   color: inherit;
   text-decoration: none;
 }
-a:not([href]):hover {
+a2:not([href]):hover {
   color: inherit;
   text-decoration: none;
 }
